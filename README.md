@@ -46,4 +46,6 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  # My Other Projects
  [Better Bookmarks](https://github.com/timdoan22/fullstack-app)  
  
- [RenoDemo](https://github.com/timdoan22/portfolio-projects/tree/main/renodemo)
+ [RenoDemo](https://github.com/timdoan22/portfolio-projects/tree/main/renodemo)  
+ 
+ [Landing Page](https://xyzlanding.netlify.app/)
